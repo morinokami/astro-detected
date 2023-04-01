@@ -2,7 +2,7 @@
 
 A Chrome Extension that tries to detect if you are on an Astro page.
 
-![astro-detected](https://user-images.githubusercontent.com/7889778/229258484-799f4f74-cf3c-4a61-bcc1-c550ad4de3b3.jpg)
+![astro-detected](https://user-images.githubusercontent.com/7889778/229267304-b7084562-59a4-4553-ba20-712a0ee01a46.jpg)
 
 If Astro is detected on the current page, the extension icon will become colored; otherwise, a dark icon will appear.
 
